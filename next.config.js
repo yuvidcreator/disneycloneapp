@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['lh3.googleusercontent.com', 'google.com', 'image.tmdb.org'],
+    domains: ['lh3.googleusercontent.com', 'google.com', 'image.tmdb.org', 'disneyapp.vercel.app'],
   },
 
   // compiler: {
